@@ -1,0 +1,5 @@
+DELETE http://localhost:8080/api/poista/1
+Content-Type: application/json
+
+
+###

@@ -1,0 +1,33 @@
+POST http://localhost:8080/api/luo/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "tehtava": "Muista vessapaperi",
+  "tehty": false
+}
+
+###
+
+POST http://localhost:8080/api/luo/2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "tehtava": "Muista Sali",
+  "tehty": false
+}
+
+
+
+###
+
+POST http://localhost:8080/api/luo/3
+Content-Type: application/json
+
+{
+  "id": 3,
+  "tehtava": "Muista safkata",
+  "tehty": false
+}
+

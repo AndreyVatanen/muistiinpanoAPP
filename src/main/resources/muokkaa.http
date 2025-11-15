@@ -1,0 +1,22 @@
+PUT http://localhost:8080/api/muokkaa
+Content-Type: application/json
+
+{
+  "id": 1,
+  "tehtava": "Vessapaperi käyty",
+  "tehty": true
+}
+
+###
+
+
+
+
+
+
+
+
+
+
+
+
